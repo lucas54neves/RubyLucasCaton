@@ -1,0 +1,23 @@
+div#main{
+	background: gray;
+	border: 5px solid black;
+	padding: 10px;
+	margin: auto;
+	width: 600px;
+}
+
+div#main h1#title{
+	color: red;
+}
+
+.special{
+	color: white;
+}
+
+div#main h1#title2{
+	color: #ae4949;
+}
+
+.blueColor{
+	color: blue;
+}
