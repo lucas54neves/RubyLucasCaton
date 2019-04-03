@@ -19,3 +19,11 @@ puts array.reverse
 # Coleção com elementos de mais de um tipo
 array << "Texto"
 puts array
+
+# Retorna o valor de uma posição
+puts array[0]
+puts array[4]
+puts array[6]
+
+# Retorna a quantidade de elementos
+puts array.count
