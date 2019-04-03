@@ -27,3 +27,6 @@ puts array[6]
 
 # Retorna a quantidade de elementos
 puts array.count
+
+# Se passar um índice maior que o tamanho do array, ele retorna nil
+puts array[600]
